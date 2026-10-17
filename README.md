@@ -125,6 +125,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [LocalCDN](https://www.localcdn.org/) - Emulates common content delivery networks locally.
 - [NoScript](https://noscript.net/) - Fine-grained script blocking for advanced users.
 - [Privacy Badger](https://privacybadger.org/) - Tracker blocker from the Electronic Frontier Foundation.
+- [Spoof Me](https://spoof-me.com/) - Spoofs user agent, language, timezone, screen and hardware signals as one consistent identity, and warns when a site reads fingerprinting APIs.
 - [uBlock Origin](https://github.com/gorhill/uBlock) - Efficient wide-spectrum content blocker.
 
 ## VPNs, Tor, and Network Privacy
